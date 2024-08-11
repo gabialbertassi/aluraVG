@@ -1,0 +1,251 @@
+body{
+    margin: 0px;
+    background-color: #BBDCF1;
+}
+
+.vejaa {
+    color: #d2e5f5 ;
+    background-color: rgb(34, 39, 182);
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: 0px 0px 5px white;
+
+}
+
+.conteudo {
+    text-shadow: 5px 5px 15px white;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./museo-van-gogh.avif);
+}
+
+.sub {
+    font-family: fonteb;
+    font-size: 60px;
+    line-height: 20px;
+    padding-top: 40px;
+}
+
+.tit {
+    font-family: fontea;
+    font-size: 110px;
+    line-height: 50px;
+}
+
+.pai1 {
+    border-radius: 30px;
+    background-color: white;
+
+
+}
+
+.txt {
+    font-family: fontec;
+    padding-top: 30px;
+}
+
+.pai1 {
+    margin-top: 40px;
+    padding-top: 10px;
+    margin: 50px;
+}
+
+.pai3 {
+    
+    padding: 40px;
+    display: flex;
+    flex-direction: row ;
+
+}
+
+.pai2 {
+    font-size: 18px;
+   
+}
+
+.autor {
+    margin-left: 40px;
+    flex-direction: column;
+    width: 600px;
+    font-family: fonted;
+    
+}
+
+.imagemm {
+    margin-left: 200px;
+    box-shadow: 0px 0px 20px rgb(142, 142, 142);
+}
+
+.posicao {
+    display: flex;
+    flex-direction: row;
+}
+
+.conteiner {
+    margin-top: 40px;
+    background-color: #81B19F;
+    border-radius: 30px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.txto{
+font-family: fontec;
+padding-bottom: 30px;
+margin-top: 60px;
+}
+
+
+.subconteiner {
+    margin-right: 40px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 380px;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+
+.subsub {
+    width: 300px;
+   padding: 40px;
+}
+
+.obraaa {
+    
+    font-size: 25px;
+    font-family: fontee;
+}
+
+.paraaa {
+    font-family: fonted;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.imgcon {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+
+
+.centro {
+    margin-top: 50px;
+    background-color: #E7F78D;
+    padding: 30px;
+    border-radius: 30px;
+    margin: 50px;
+}
+
+.titl  {
+    font-family: fontec;
+    margin-bottom: 40px;
+}
+
+.subcentro {
+    width: 550px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 40px;
+    box-shadow: 0px 0px 15px rgb(142, 142, 142);
+
+}
+
+.foto {
+    border-radius: 5px;
+}
+
+.impor {
+    font-family: fontee;
+}
+
+.import {
+    font-family: fonted;
+}
+
+.posicionamento {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    
+}
+
+.tabela {
+    margin-left: 120px;
+    
+}
+
+.AB {
+    width: 300px;
+    background-color: #EFFAB3;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 13px 13px 13px #77647D;
+}
+
+.espaco {
+    margin-top: 60px;
+}
+
+
+.eee {
+    line-height: 15px;
+}
+
+
+.final {
+    background-color: #061623;
+    margin-top: 45px;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.subfinal {
+    font-family: fonted;
+    line-height: 10px;
+    font-size: x-small;
+}
+
+.hf {
+    font-size: x-small;
+}
+
+.hs {
+    font-size: small;
+}
+
+.socia img{
+ margin-right: 18px;
+}
+
+.tablee {
+    line-height: 20px;
+   
+}
+
+.video {
+    background-color: white;
+    padding: 30px;
+    margin: 50px;
+    border-radius: 30px;
+}
+
+.vdeo {
+    margin: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
